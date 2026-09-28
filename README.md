@@ -1,108 +1,125 @@
-<h1 align="center">👋 Bem-vindo(a)! 🚀</h1>
+# 👋 Olá, eu sou Eduardo Henrique!
 
-<table>
-<tr>
-<td>
+### ☕ Desenvolvedor Back-end Java em formação
 
-# Eu sou Eduardo Henrique!
-
-### Desenvolvedor Back-end Java em formação ☕
-
-💻 Focado em construir soluções eficientes, aprender todos os dias e conquistar minha primeira oportunidade como desenvolvedor.
-
-</td>
-
-<td>
-<img src="https://media.giphy.com/media/EatwJZRUIv41G/giphy.gif" width="250px">
-</td>
-
-</tr>
-</table>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focado em desenvolvimento Back-end com Java
+📍 São Paulo, Brasil
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Java Júnior ou Estagiário
 
 ---
 
-## 💡 Sobre mim
+## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de desenvolvimento de software, com foco em **Java e Back-end**.
 
-Atualmente estou construindo uma base sólida em programação, estudando diariamente e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento Back-end.
+Atualmente, estou fortalecendo meus fundamentos de programação através de estudos e projetos práticos, buscando desenvolver cada vez mais autonomia para construir aplicações desde o início.
 
-- 🌱 Atualmente estudando: **Java, Git, PostgreSQL e Lógica de Programação**
-- 💬 Me pergunte sobre: **Java, SQL, Git ou lógica de programação**
-- 🎯 Objetivo: **Conquistar minha primeira oportunidade como Desenvolvedor Back-end Java**
+Meu objetivo é transformar conhecimento teórico em projetos reais, aprendendo boas práticas de desenvolvimento e evoluindo gradualmente para tecnologias utilizadas no mercado.
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tecnologias e ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-4CAF50?style=for-the-badge)
+### Atualmente estudando
+
+* ☕ Java
+* 🧠 Lógica de Programação
+* 🗄️ PostgreSQL
+* 🔀 Git
+* 🐙 GitHub
+* 📋 SQL
+
+### Próximos estudos
+
+* 🌱 Spring Boot
+* 🌐 APIs REST
+* 🧪 JUnit
+* 📦 Maven
+* 🐳 Docker
+* ✨ Clean Code
+* 🧩 SOLID
 
 ---
 
-## 🚀 Projetos em destaque
+## 📚 O que estou desenvolvendo
 
-📌 Em breve:
+No momento, meu foco está em construir projetos do zero para consolidar meus conhecimentos em:
 
-- Sistema de Controle de Estoque
-- CRUD Java + PostgreSQL
-- API REST com Spring Boot
-- ERP para Pequenos Negócios
+* Programação Orientada a Objetos
+* Estruturas de dados e lógica de programação
+* Persistência de dados
+* Desenvolvimento de APIs
+* Banco de dados relacionais
+* Versionamento com Git
+* Boas práticas de desenvolvimento
+
+---
+
+## 🚀 Projetos
+
+### 💰 Sistema de Controle Financeiro
+
+Aplicação desenvolvida em Java com o objetivo de praticar lógica de programação, orientação a objetos e organização de código.
+
+**Tecnologias:**
+
+* Java
+* Git
+* GitHub
+
+🔗 Em desenvolvimento
+
+---
+
+### 📦 Sistema de Controle de Estoque
+
+Projeto voltado para o gerenciamento de produtos e estoque, desenvolvido para praticar operações CRUD e integração com banco de dados.
+
+**Tecnologias:**
+
+* Java
+* PostgreSQL
+* SQL
+
+🔗 Em desenvolvimento
+
+---
+
+### 💳 Sistema de Pagamentos
+
+Projeto inspirado em sistemas de pagamentos, desenvolvido com foco em Back-end, APIs REST e persistência de dados.
+
+**Tecnologias:**
+
+* Java
+* Spring Boot
+* PostgreSQL
+* Docker
+
+🔗 Em desenvolvimento
+
+---
+
+## 🎯 Objetivos
+
+* Conseguir minha primeira oportunidade como Desenvolvedor Java;
+* Consolidar meus fundamentos de programação;
+* Desenvolver aplicações completas do zero;
+* Aprender e aplicar boas práticas de desenvolvimento;
+* Evoluir em desenvolvimento Back-end;
+* Construir um portfólio baseado em projetos práticos.
 
 ---
 
 ## 📫 Contato
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-https://www.linkedin.com/in/eduardo-henrique-b66a8625a/
+💼 **LinkedIn:** [Eduardo Henrique](https://www.linkedin.com/in/eduardo-henrique-b66a8625a/)
 
-</a>
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
-eduardohenri035@gmail.com
-</a>
+🐙 **GitHub:** [Eduardo-Henrique0](https://github.com/Eduardo-Henrique0)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+⭐ Obrigado por visitar meu perfil!
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,postgresql,docker,github,idea,vscode" />
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Henrique0&show_icons=true&theme=github_dark"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Henrique0&layout=compact&theme=github_dark"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Henrique0&theme=github-dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-🚀 Em busca da minha primeira oportunidade como Desenvolvedor Back-end Java.
-
-</div>
+Estou construindo minha jornada no desenvolvimento Back-end, um projeto de cada vez. 🚀
