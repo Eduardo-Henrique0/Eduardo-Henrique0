@@ -3,8 +3,9 @@
 ### ☕ Desenvolvedor Back-end Java em formação
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 💻 Focado em desenvolvimento Back-end com Java
-📍 São Paulo, Brasil
+
 🎯 Buscando minha primeira oportunidade como Desenvolvedor Java Júnior ou Estagiário
 
 ---
