@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Eduardo Henrique!
 
-### ☕ Desenvolvedor Back-end Java em formação
+### ☕ Desenvolvedor Back-end Java 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
