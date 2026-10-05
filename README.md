@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Eduardo Henrique
 
-### ☕ Desenvolvedor Back-end Java em formação
+### ☕ Desenvolvedor Back-end Java 
 
 <p>
   <a href="https://www.linkedin.com/in/eduardo-henrique-b66a8625a/">
