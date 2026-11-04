@@ -62,8 +62,25 @@ Confira meus repositórios:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Henrique0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Henrique0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Henrique0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Henrique0&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Eduardo-Henrique0&theme=dark&hide_border=true&border_radius=8" width="80%"/>
+</div>
+
+---
+
+## 📅 Histórico de contribuições
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Eduardo-Henrique0" width="100%" alt="Calendário de contribuições do GitHub"/>
 </div>
 
 ---
@@ -71,15 +88,7 @@ Confira meus repositórios:
 ## 📈 Gráfico de contribuições
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Henrique0&theme=tokyonight" width="100%" />
-</div>
-
----
-
-## 🔥 Histórico de atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Henrique0&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Henrique0&theme=tokyonight" width="100%"/>
 </div>
 
 ---
